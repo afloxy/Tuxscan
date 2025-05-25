@@ -10,7 +10,7 @@ We currently support the following versions of TuxScan:
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability within TuxScan, please send an email to [your-email@example.com]. All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within TuxScan, please send an email to nndwivedi9996@gmail.com. All security vulnerabilities will be promptly addressed.
 
 Please include the following information in your report:
 - Type of vulnerability
