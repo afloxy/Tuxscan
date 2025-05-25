@@ -53,7 +53,7 @@ This tool is provided for educational and ethical security testing purposes only
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/yourusername/tuxscan.git](https://github.com/afloxy/Tuxscan.git)
+git clone https://github.com/afloxy/Tuxscan.git
 cd tuxscan
 ```
 
